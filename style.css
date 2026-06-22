@@ -4,6 +4,9 @@ body{
     font-family: "Fontdiner Swanky";
     text-align: center;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 .section{
     max-width:1000px;
@@ -44,7 +47,31 @@ body{
     color: rgb(175, 157, 55);
     
 }
-
-
+#books:hover{
+    background-color: rgb(101, 55, 175);
+    color: rgb(101, 55, 175);
+    
+}
+#movies:hover{
+    background-color: rgb(101, 55, 175);
+    color: rgb(101, 55, 175);
+    
+}
+#movies{
+    padding: 5px;
+    border: rgb(101, 55, 175) solid 2px;
+    border-radius: 5px;
+    font-family: "Fontdiner Swanky";
+    color: black;
+    box-shadow: 10px 10px 30px rgb(101, 55, 175);
+}
+#books{
+    padding: 5px;
+    border: rgb(101, 55, 175) solid 2px;
+    border-radius: 5px;
+    font-family: "Fontdiner Swanky";
+    color: black;
+    box-shadow: 10px 10px 30px rgb(101, 55, 175);
+}
 
     
