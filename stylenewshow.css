@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(29, 140, 168);
+    color: rgb(0, 0, 0);
+    font-family: "Fontdiner Swanky";
+    text-align: center;
+}
+
+#sure {
+    border: 2px solid gold;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+#sure2 {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#section{
+    max-width:1000px;
+    margin-left: 85px;
+    background:#ffffff;
+    padding:30px;
+    border:3px solid gold;
+    border-radius:10px;
+    font-size:20px;
+}
